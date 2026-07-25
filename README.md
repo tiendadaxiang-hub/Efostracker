@@ -232,8 +232,8 @@ Este repositorio descarga y procesa datos públicos del SAT para facilitar la co
 
 ## 🤝 Autor y Licencia
 
-**Desarrollado por**: Paimon... {completar después}  
-**Especialidad**: Derecho fiscal, tributario y penal  
-**Investigación**: IA, Administraciones Tributarias y Derechos Humanos
+**Desarrollado por**: PaimonbyACM... {completar después}  
+  
+**Investigación**: IA, Administraciones Tributarias, otros.
 
 **Licencia**: MIT — libre para usar, modificar y distribuir citando al autor.
