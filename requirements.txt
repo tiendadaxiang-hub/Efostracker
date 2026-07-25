@@ -1,0 +1,10 @@
+# sat-efos-tracker — dependencias Python
+# Instalar: pip install -r requirements.txt
+
+requests>=2.31.0        # Descarga HTTP con reintentos
+schedule>=1.2.0         # Scheduler liviano para el daemon diario
+
+# Opcionales pero recomendadas
+pytest>=7.4.0           # Para correr los tests
+
+# python-dotenv>=1.0.0        # Para leer archivos .env
