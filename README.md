@@ -56,7 +56,7 @@ Ver [INSTALL.md](INSTALL.md) para detalles de instalación.
 
 ### 1. Instalación
 ```bash
-git clone https://github.com/TU_USUARIO/Efostracker.git
+git clone https://github.com/tiendadaxiang-hub/Efostracker.git
 cd Efostracker
 python -m venv .venv
 .venv\Scripts\activate        # Windows
