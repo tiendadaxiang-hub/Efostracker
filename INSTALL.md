@@ -11,7 +11,7 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/Efostracker.git
+git clone https://github.com/tiendadaxiang-hub/Efostracker.git
 cd Efostracker
 ```
 
@@ -199,6 +199,6 @@ Efostracker/
 
 ## Soporte
 
-- **Issues**: [github.com/TU_USUARIO/Efostracker/issues](https://github.com/TU_USUARIO/Efostracker/issues)
+- **Issues**: [github.com/tiendadaxiang-hub](https://github.com/tiendadaxiang-hub/Efostracker.git)
 - **Documentación**: Ver [README.md](README.md)
 - **Tests**: `python -m pytest tests/ -v`
